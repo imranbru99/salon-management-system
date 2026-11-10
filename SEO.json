@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "salon-management-system",
+  "description": "Salon Management System — Retail Services Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Appointment scheduling, POS billing, stylist commission, memberships, and inventory. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "retail-services",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/salon-management-system"
+}
